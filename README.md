@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hi there! 👋
+I'm a passionate Junior Web Developer currently finishing my Boolean course, where I'm diving deep into web development. Alongside that, I'm expanding my skills by learning Java and Java Spring.
 
-<!--
-**MattiaPlacido/MattiaPlacido** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+⚡ Currently working on:
 
-Here are some ideas to get you started:
+Building my knowledge of backend development with Java and Java Spring.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Continuously improving my skills through hands-on projects and coding challenges.
+
+🔧 Tech Stack:
+
+Frontend: HTML, CSS, JavaScript, React, Node.js
+
+Backend: Java, Spring Boot, Node.js, Express.js
+
+Feel free to explore my projects, and let's connect! 🚀
