@@ -1,5 +1,5 @@
 ## Hi there! 👋
-I'm a passionate Junior Web Developer currently finishing my Boolean course, where I'm diving deep into web development. Alongside that, I'm expanding my skills by learning Java and Java Spring.
+I'm a passionate Junior Web Developer currently finishing my Boolean course, where I'm diving deep into web development. Alongside that, I'm passionate about making video games and music!
 
 ⚡ Currently working on:
 
