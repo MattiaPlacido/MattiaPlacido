@@ -11,7 +11,7 @@ Leveling up through hands-on projects and coding challenges
 
 Frontend: HTML, CSS, JavaScript, React
 
-Backend: Java, Spring Boot, Node.js, Express.js
+Backend: Java, Spring, Node.js, Express.js
 
 I'm always open to connecting, collaborating, and learning from others in the community.
 Feel free to explore my projects and maybe let's build something together! 🚀
