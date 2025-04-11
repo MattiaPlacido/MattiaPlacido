@@ -1,16 +1,14 @@
-## Hi there! 👋
-I'm a passionate Junior Web Developer currently finishing my Boolean course, where I'm diving deep into web development. Alongside that, I'm passionate about making video games and music!
+Hi there! 👋
+I'm a passionate Junior Web Developer actively looking for opportunities in the tech industry. Beyond that i love making music and anything that lets me express creativity.
 
-⚡ Currently working on:
+⚡ What I'm currently working on:
+Deepening my knowledge of backend development and database design patterns
 
-Building my knowledge of backend development with Java and Java Spring.
-
-Continuously improving my skills through hands-on projects and coding challenges.
+Leveling up through hands-on projects and coding challenges
 
 🔧 Tech Stack:
-
-Frontend: HTML, CSS, JavaScript, React, Node.js
-
+Frontend: HTML, CSS, JavaScript, React
 Backend: Java, Spring Boot, Node.js, Express.js
 
-Feel free to explore my projects, and let's connect! 🚀
+I'm always open to connecting, collaborating, and learning from others in the community.
+Feel free to explore my projects and maybe let's build something together! 🚀
